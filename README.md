@@ -14,7 +14,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3 align="center">💻 About Me</h3>
+      <h3 align="center">About Me</h3>
 <pre>
 ┌──(junior㉿github)-[~]
 └─$ whoami
@@ -45,8 +45,7 @@ Goals   : NIST, MITRE ATT&CK
 
 </td>
     <td width="45%" valign="top">
-      <hr>
-      <h3 align="center">⚡ Tech Stack</h3>
+      <h3 align="center">Tech Stack</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
@@ -57,21 +56,11 @@ Goals   : NIST, MITRE ATT&CK
         <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
       </p>
-      <hr>
-      <h3 align="center">🌐 Connect</h3>
-      <p align="center">
-        <a href="https://github.com/caelyzz">
-          <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://linkedin.com/in/juniorferdiansyah">
-          <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-      </p>
     </td>
 
 ---
 
-<h2 align="center">📈 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
   <!-- GitHub Stats & Top Langs dibuat monokrom dengan parameter warna hex -->
@@ -87,7 +76,6 @@ Goals   : NIST, MITRE ATT&CK
 </div>
 
 
-<h2 align="center">📊 Activity Graph</h2>
 
 <div align="center">
   <!-- Grafik aktivitas dinamis baru yang menyesuaikan dengan commit Anda secara real-time -->
