@@ -13,6 +13,7 @@
 
 <table align="center" width="100%">
   <tr>
+    <!-- KOLOM KIRI: Terminal About Me -->
     <td width="55%" valign="top">
       <h3 align="center">💻 About Me</h3>
 <pre>
@@ -31,7 +32,15 @@ Focus   : .NET, Laravel, Android
 Sec     : CTF, OSINT, Pentesting
 Goals   : NIST, MITRE ATT&CK
 </pre>
-    
+</td>
+    <td width="45%" valign="middle" align="center">
+      <img 
+        src="https://github.com/user-attachments/assets/2627b7a1-a390-45a5-ab3e-d8a0b196ab31" 
+        alt="blackangel gif" 
+        width="100%" 
+        style="border-radius: 8px;"
+      />
+    </td>
   </tr>
 </table>
 
@@ -100,7 +109,6 @@ Goals   : NIST, MITRE ATT&CK
 
 ---
 
-<img width="1280" height="720" alt="blackangel" src="https://github.com/user-attachments/assets/4eced44e-ae14-4c5b-90e4-822c6b88fc68" />
 <br><br>
 
 <div align="center">
