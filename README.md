@@ -20,8 +20,7 @@
 └─$ whoami
 
 Student at SMKN 8 Jakarta (RPL)
-Software Developer | Team King JNF
-LKS & FIKSI Competitor 🇮🇩
+Software Developer 
 </pre>
 <pre>
 ┌──(junior㉿github)-[~]
