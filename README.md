@@ -10,7 +10,7 @@ Student • Backend Developer • Cyber Security Enthusiast
 Indonesia 🇮🇩
 ```
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=caelyzz&style=flat-square&color=blue" />
 
 </div>
 
@@ -68,9 +68,9 @@ Currently Learning:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=caelyzz&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caelyzz&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -80,7 +80,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=caelyzz&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -104,11 +104,11 @@ Currently Learning:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/caelyzz">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/juniorferdiansyah">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
