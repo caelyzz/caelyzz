@@ -13,7 +13,6 @@
 
 <table align="center" width="100%">
   <tr>
-    <!-- KOLOM KIRI: Terminal About Me -->
     <td width="55%" valign="top">
       <h3 align="center">💻 About Me</h3>
 <pre>
