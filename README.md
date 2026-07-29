@@ -104,8 +104,9 @@ Goals   : NIST, MITRE ATT&CK
 ```text
 while(alive){
     eat();
-    code();
+    work();
     learn();
+    pray();
     sleep();
     repeat();
 }
