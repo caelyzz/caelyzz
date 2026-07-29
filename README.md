@@ -63,23 +63,18 @@ Goals   : NIST, MITRE ATT&CK
 <h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-  <!-- GitHub Stats & Top Langs dibuat monokrom dengan parameter warna hex -->
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caelyzz&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caelyzz&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
 </div>
-
 <br>
 
 <div align="center">
-  <!-- Streak Stats Monokrom -->
   <img src="https://streak-stats.demolab.com?user=caelyzz&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=ffffff"/>
 </div>
 <br>
 
 
-
 <div align="center">
-  <!-- Grafik aktivitas dinamis baru yang menyesuaikan dengan commit Anda secara real-time -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caelyzz&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
 
