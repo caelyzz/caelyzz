@@ -3,7 +3,7 @@
 
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Junior Ferdiansyah</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Cyber+Security+Enthusiast;CTF+Player+%7C+AI+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Cyber+Security+Enthusiast;Vibe+Coder+%7C+AI+Learner" />
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=caelyzz&style=for-the-badge&color=000000&labelColor=ffffff"/>
 
