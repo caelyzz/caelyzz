@@ -27,7 +27,7 @@ Software Developer
 └─$ neofetch
 
 OS      : Windows / Ubuntu Linux
-Focus   : .NET, Laravel, Android
+Focus   : .NET, Laravel, React
 Sec     : CTF, OSINT, Pentesting
 Goals   : NIST, MITRE ATT&CK
 </pre>
