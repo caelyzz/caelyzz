@@ -46,16 +46,22 @@ Goals   : NIST, MITRE ATT&CK
 </td>
     <td width="45%" valign="top">
       <h3 align="center">Tech Stack</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white"/>
-        <br>
-        <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white"/>
+        </p>
     </td>
 
 ---
